@@ -1,0 +1,14 @@
+{
+  "name": "lp-lauren-perin",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Landing page PerinAds",
+  "scripts": {
+    "build": "echo \"Site estático: nada para compilar. Arquivos em ./public\"",
+    "deploy": "wrangler deploy",
+    "dev": "wrangler dev"
+  },
+  "devDependencies": {
+    "wrangler": "4.168.0"
+  }
+}
